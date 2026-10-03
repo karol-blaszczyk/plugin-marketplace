@@ -410,8 +410,8 @@
       }
     },
     "kemory": {
-      "sha": "cb8236d77652b3240da6fdebb8e60e1af425d1df",
-      "version": "0.6.1",
+      "sha": "6334fa0e891dc6f1b719698c49af7dcf2cb2e6e5",
+      "version": "0.8.1",
       "components": {
         "commands": [
           {
